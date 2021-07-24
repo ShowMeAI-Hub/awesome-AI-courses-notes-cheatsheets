@@ -25,7 +25,7 @@
 - 精通Python
 
 ---
-## 课程动态PPT注解
+## 课程课件 |【课件动态注解】
 - [lecture01-Introduction-and-Word-Vectors](https://showmeai-hub.github.io/cs224n/https://showmeai-hub.github.io/cs224n/lecture01-Introduction-and-Word-Vectors)
 - [lecture02-Word-Vectors-2-and-Word-Senses](https://showmeai-hub.github.io/cs224n/lecture02-Word-Vectors-2-and-Word-Senses)
 - [lecture03-Neural-Networks](https://showmeai-hub.github.io/cs224n/lecture03-Neural-Networks)
@@ -47,14 +47,14 @@
 - [lecture19-Safety-Bias-and-Fairness](https://showmeai-hub.github.io/cs224n/lecture19-Safety-Bias-and-Fairness)
 - [lecture20-Future-of-NLP-and-Deep-Learning](https://showmeai-hub.github.io/cs224n/lecture20-Future-of-NLP-and-Deep-Learning)
 
-## 课程中英双语视频
+## 课程视频 |【中英字幕视频】
 
 
-## 课程笔记/Notes内容
+## 课程笔记 |【官方笔记翻译】
 
 
-## 课程作业Assignment
+## 课程作业 |【作业代码解析】
 
 
-## 课程项目projects
+## 课程项目 |【综合项目参考】
 
