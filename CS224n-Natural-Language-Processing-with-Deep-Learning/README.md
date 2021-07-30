@@ -196,23 +196,23 @@
   </tr>
   <tr>
       <td>大作业1</td>
-      <td><a href="https://showmeai-hub.github.io/cs224n/note01-Introduction-SVD-and-Word2Vec">词向量、SVD分解与word2vec</a></td>
+      <td><a href="https://github.com/ShowMeAI-Hub/awesome-AI-courses-notes-cheatsheets/tree/main/CS224n-Natural-Language-Processing-with-Deep-Learning/assignment-solutions/Assignment1">词向量、SVD分解与word2vec</a></td>
   </tr>
   <tr>
       <td>大作业2</td>
-      <td><a href="https://showmeai-hub.github.io/cs224n/note02-GloVe-Training-and-Evaluation">GloVe及词向量的训练与评估</a></td>
+      <td><a href="https://github.com/ShowMeAI-Hub/awesome-AI-courses-notes-cheatsheets/tree/main/CS224n-Natural-Language-Processing-with-Deep-Learning/assignment-solutions/Assignment2">GloVe及词向量的训练与评估</a></td>
   </tr>
   <tr>
       <td>大作业3</td>
-      <td><a href="https://showmeai-hub.github.io/cs224n/note03-Neural-Networks-and-Backpropagation">神经网络与反向传播</a></td>
+      <td><a href="https://github.com/ShowMeAI-Hub/awesome-AI-courses-notes-cheatsheets/tree/main/CS224n-Natural-Language-Processing-with-Deep-Learning/assignment-solutions/Assignment3">神经网络与反向传播</a></td>
   </tr>
   <tr>
       <td>大作业4</td>
-      <td><a href="https://showmeai-hub.github.io/cs224n/note04-Dependency-Parsing">句法分析与依存解析</a></td>
+      <td><a href="https://github.com/ShowMeAI-Hub/awesome-AI-courses-notes-cheatsheets/tree/main/CS224n-Natural-Language-Processing-with-Deep-Learning/assignment-solutions/Assignment4">句法分析与依存解析</a></td>
   </tr>
   <tr>
       <td>大作业5</td>
-      <td><a href="https://showmeai-hub.github.io/cs224n/note05-Language-Models-RNN-GRU-and-LSTM">语言模型、RNN、GRU与LSTM</a></td>
+      <td><a href="https://github.com/ShowMeAI-Hub/awesome-AI-courses-notes-cheatsheets/tree/main/CS224n-Natural-Language-Processing-with-Deep-Learning/assignment-solutions/Assignment5">语言模型、RNN、GRU与LSTM</a></td>
   </tr>
 </table>
 
