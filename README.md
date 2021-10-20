@@ -16,8 +16,8 @@
 
 课程笔记和资料在不断完善和整理中，将在制作和校对完成后逐步更新于本github，欢迎有能力的同学参与和完善，也欢迎大家关注我们的公众号和网站加入学习小组一起学习进步。
 
-> 内容翻译&制作：[韩信子](https://github.com/HanXinzi-AI)@[ShowMeAI](http://show-me-ai.com/) </br>
-> 笔记设计&编辑：南乔@[ShowMeAI](http://show-me-ai.com/)
+> 内容翻译&制作：[韩信子](https://github.com/HanXinzi-AI)@[ShowMeAI](http://www.showmeai.tech/) </br>
+> 笔记设计&编辑：南乔@[ShowMeAI](http://www.showmeai.tech/)
 
 ---
 
